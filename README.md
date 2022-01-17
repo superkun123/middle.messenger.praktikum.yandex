@@ -7,4 +7,4 @@
 -npm build: собирает проект начиная с index.html
 -server: обращается к экспресс который отдаёт статический html на 3000 локальном порте
 
-Ссылка на nerlify: https://eager-gates-70354c.netlify.app/
+Ссылка на netlify: https://eager-gates-70354c.netlify.app/
